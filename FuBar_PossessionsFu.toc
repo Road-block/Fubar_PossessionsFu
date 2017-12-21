@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: FuBar - |cffffffffPossessions|r|cff00ff00Fu|r
+## Notes: FuBar addon for Possessions.
+## Author: drashy
+## X-eMail: drashy at gmail dot com
+## X-URL: http://www.curse.com/downloads/details/8759/
+## X-Credits: Roadblock - backport to Vanilla
+## Version: 11200.3
+## Dependencies: FuBar
+## OptionalDeps: Ace2, FuBarPlugin-2.0, Possessions
+## SavedVariables: PossessionsFuDB
+## LoadOnDemand: 1
+
+lib\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+lib\Tablet-2.0\Tablet-2.0.lua
+lib\AceDB-2.0\AceDB-2.0.lua
+
+PossessionsFu.lua
